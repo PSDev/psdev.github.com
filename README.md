@@ -7,3 +7,5 @@ Projects
   *LicensesDialog is an open source library to display licenses of third-party libraries in an Android app*
 * [slf4j-android-logger](http://psdev.de/slf4j-android-logger)  
   *SLF4J Android binding*
+* [async-otto](http://psdev.de/async-otto)  
+  *Extension to Squares Otto library to provide a Bus which always posts to the main thread.*
