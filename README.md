@@ -9,3 +9,5 @@ Projects
   *SLF4J Android binding*
 * [async-otto](http://psdev.de/async-otto) [![Build Status](https://travis-ci.org/PSDev/async-otto.png?branch=master)](https://travis-ci.org/PSDev/async-otto) [![Build Status](http://ci.psdev.de/job/PSDevAsyncOtto/badge/icon)](http://ci.psdev.de/job/PSDevAsyncOtto/)  
   *Extension to Squares Otto library to provide a Bus which always posts to the main thread.*
+* [stabbed-android](http://psdev.de/stabbed-android) [![Build Status](http://ci.psdev.de/job/PSDevStabbedAndroid/badge/icon)](http://ci.psdev.de/job/PSDevStabbedAndroid/)  
+  *Base classes for using Squares Dagger in Android Apps.*
