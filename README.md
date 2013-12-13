@@ -1,6 +1,8 @@
 Projects
 --------
 
+* [FormValidations](http://psdev.de/FormValidations) [![Build Status](http://ci.psdev.de/job/PSDevFormValidations/badge/icon)](http://ci.psdev.de/job/PSDevFormValidations/)  
+  *FormValidations is an open source library to validate forms in Android apps.*
 * [LicensesDialog](http://psdev.de/LicensesDialog) [![Build Status](http://ci.psdev.de/job/PSDevLicensesDialog/badge/icon)](http://ci.psdev.de/job/PSDevLicensesDialog/)  
   *LicensesDialog is an open source library to display licenses of third-party libraries in an Android app*
 * [stabbed-android](http://psdev.de/stabbed-android) [![Build Status](http://ci.psdev.de/job/PSDevStabbedAndroid/badge/icon)](http://ci.psdev.de/job/PSDevStabbedAndroid/)  
