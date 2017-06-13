@@ -1,0 +1,8 @@
+title: PSDev
+description: 
+google_analytics: UA-74654-22
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
